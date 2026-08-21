@@ -1,0 +1,166 @@
+21-08-2026 13:10:54|INFO|test_case_01_Validate_Login_Functionality.py:15|*Launch The Browser And URL
+21-08-2026 13:10:54|INFO|test_case_01_Validate_Login_Functionality.py:20|*Reading the data from Excel
+21-08-2026 13:10:54|INFO|test_case_01_Validate_Login_Functionality.py:24|*Entering the Username and Password
+21-08-2026 13:10:54|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:10:56|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:10:56|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:10:59|INFO|test_case_01_Validate_Login_Functionality.py:26|*Checking The Validation
+21-08-2026 13:10:59|INFO|BasePage.py:86|Getting Page URL
+21-08-2026 13:10:59|INFO|test_case_01_Validate_Login_Functionality.py:32|*Validation Failed And Excel Updated as Failed
+21-08-2026 13:10:59|INFO|test_case_01_Validate_Login_Functionality.py:20|*Reading the data from Excel
+21-08-2026 13:10:59|INFO|test_case_01_Validate_Login_Functionality.py:24|*Entering the Username and Password
+21-08-2026 13:10:59|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:11:01|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:11:01|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:11:01|INFO|test_case_01_Validate_Login_Functionality.py:26|*Checking The Validation
+21-08-2026 13:11:01|INFO|BasePage.py:86|Getting Page URL
+21-08-2026 13:11:03|INFO|test_case_01_Validate_Login_Functionality.py:32|*Validation Failed And Excel Updated as Failed
+21-08-2026 13:11:03|INFO|test_case_01_Validate_Login_Functionality.py:20|*Reading the data from Excel
+21-08-2026 13:11:03|INFO|test_case_01_Validate_Login_Functionality.py:24|*Entering the Username and Password
+21-08-2026 13:11:03|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:11:03|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:11:04|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:11:06|INFO|test_case_01_Validate_Login_Functionality.py:26|*Checking The Validation
+21-08-2026 13:11:06|INFO|BasePage.py:86|Getting Page URL
+21-08-2026 13:11:06|INFO|test_case_01_Validate_Login_Functionality.py:32|*Validation Failed And Excel Updated as Failed
+21-08-2026 13:11:06|INFO|test_case_01_Validate_Login_Functionality.py:20|*Reading the data from Excel
+21-08-2026 13:11:06|INFO|test_case_01_Validate_Login_Functionality.py:24|*Entering the Username and Password
+21-08-2026 13:11:06|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:11:08|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:11:08|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:11:09|INFO|test_case_01_Validate_Login_Functionality.py:26|*Checking The Validation
+21-08-2026 13:11:09|INFO|BasePage.py:86|Getting Page URL
+21-08-2026 13:11:09|INFO|test_case_01_Validate_Login_Functionality.py:32|*Validation Failed And Excel Updated as Failed
+21-08-2026 13:11:10|INFO|test_case_01_Validate_Login_Functionality.py:20|*Reading the data from Excel
+21-08-2026 13:11:10|INFO|test_case_01_Validate_Login_Functionality.py:24|*Entering the Username and Password
+21-08-2026 13:11:10|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:11:11|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:11:11|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:11:14|INFO|test_case_01_Validate_Login_Functionality.py:26|*Checking The Validation
+21-08-2026 13:11:14|INFO|BasePage.py:86|Getting Page URL
+21-08-2026 13:11:14|INFO|test_case_01_Validate_Login_Functionality.py:28|*Validation Success And Excel Updated as Passed
+21-08-2026 13:11:25|INFO|test_case_02_Verify_Home_Url_Accessable.py:14|==========TEST CASE 02  STARTED==================
+21-08-2026 13:11:25|INFO|test_case_02_Verify_Home_Url_Accessable.py:16|*Opening the URL 
+21-08-2026 13:11:25|INFO|test_case_02_Verify_Home_Url_Accessable.py:17|*Validate the Home Page URL 
+21-08-2026 13:11:25|INFO|BasePage.py:86|Getting Page URL
+21-08-2026 13:11:25|INFO|test_case_02_Verify_Home_Url_Accessable.py:19|******** TEST CASE 02 PASSED ****************
+21-08-2026 13:11:25|INFO|test_case_02_Verify_Home_Url_Accessable.py:20|==========TEST ENDED==================
+21-08-2026 13:11:35|INFO|test_case_03_Validate_Presence_of_login_fields.py:14|==========TEST CASE 03  STARTED==================
+21-08-2026 13:11:35|INFO|test_case_03_Validate_Presence_of_login_fields.py:17|Validate the presence of Username and Password fields
+21-08-2026 13:11:36|INFO|test_case_03_Validate_Presence_of_login_fields.py:20|Validate the enabled status of Login Fields
+21-08-2026 13:11:36|INFO|test_case_03_Validate_Presence_of_login_fields.py:23|==========TEST CASE 03 PASSED==================
+21-08-2026 13:11:36|INFO|test_case_03_Validate_Presence_of_login_fields.py:24|==========TEST ENDED==================
+21-08-2026 13:11:47|INFO|test_case_04_Verify_Visibility_And_Clickability_Menu_Items.py:13|=====TEST CASE 04 started======
+21-08-2026 13:11:47|INFO|test_case_04_Verify_Visibility_And_Clickability_Menu_Items.py:14|******** Opening the URL *******************
+21-08-2026 13:11:47|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:11:47|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:11:47|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:11:49|INFO|DashBoardPage.py:40|*Clicking Menu Arrow
+21-08-2026 13:11:50|INFO|test_case_04_Verify_Visibility_And_Clickability_Menu_Items.py:19|Validate the presence of Dashboard Menu
+21-08-2026 13:11:50|INFO|DashBoardPage.py:26|*verifying menubar as displayed
+21-08-2026 13:11:50|INFO|DashBoardPage.py:29|*menubar is displayed
+21-08-2026 13:11:50|INFO|test_case_04_Verify_Visibility_And_Clickability_Menu_Items.py:21|Validate the enabled status of Dashboard Menu Items
+21-08-2026 13:11:50|INFO|DashBoardPage.py:33|*verifying menubar is enable
+21-08-2026 13:11:50|INFO|DashBoardPage.py:36|*menubar is enabled
+21-08-2026 13:11:50|INFO|test_case_04_Verify_Visibility_And_Clickability_Menu_Items.py:23|==========TC 04 TEST PASSED===============
+21-08-2026 13:11:50|INFO|test_case_04_Verify_Visibility_And_Clickability_Menu_Items.py:24|==========TEST ENDED===============
+21-08-2026 13:12:02|INFO|test_case_05_Validate_Login_For_Newly_Created_User.py:12|=====TEST CASE 05 started======
+21-08-2026 13:12:02|INFO|DashBoardPage.py:49|*New User Creation Start*
+21-08-2026 13:12:02|INFO|DashBoardPage.py:52|*Logging Using Admin Credentials*
+21-08-2026 13:12:02|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:12:05|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:12:05|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:12:10|INFO|DashBoardPage.py:54|*Navigate to Admin Page
+21-08-2026 13:12:16|INFO|DashBoardPage.py:56|*Clicking ADD Button
+21-08-2026 13:12:17|INFO|DashBoardPage.py:45|*Clicking ADD BUTTON
+21-08-2026 13:12:19|INFO|DashBoardPage.py:58|*Create The New Users
+21-08-2026 13:12:19|INFO|SaveAdminPage.py:39|*Users Creating
+21-08-2026 13:12:23|INFO|SaveAdminPage.py:31|*Entering username:{username} and password:{password}
+21-08-2026 13:12:25|INFO|DashBoardPage.py:60|*New User as Created Successfully: test_user_03247471
+21-08-2026 13:12:25|INFO|DashBoardPage.py:61|*Logout With ADMIN credentials
+21-08-2026 13:12:25|INFO|LoginPage.py:50|*Logging out
+21-08-2026 13:12:30|INFO|DashBoardPage.py:63|*Login With New Credentials
+21-08-2026 13:12:30|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:12:33|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:12:33|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:12:40|INFO|test_case_05_Validate_Login_For_Newly_Created_User.py:15|validate the Dashboard URL
+21-08-2026 13:12:40|INFO|BasePage.py:86|Getting Page URL
+21-08-2026 13:12:40|INFO|test_case_05_Validate_Login_For_Newly_Created_User.py:17|==========TC 05 TEST PASSED===============
+21-08-2026 13:12:40|INFO|test_case_05_Validate_Login_For_Newly_Created_User.py:18|==========TEST ENDED===============
+21-08-2026 13:12:51|INFO|test_case_06_Validate_Newly_Created_User.py:15|==========TEST CASE 06  STARTED==========
+21-08-2026 13:12:51|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:12:53|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:12:53|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:12:53|INFO|DashBoardPage.py:70|*CLick admin Button
+21-08-2026 13:13:10|INFO|SaveAdminPage.py:39|*Users Creating
+21-08-2026 13:13:17|INFO|SaveAdminPage.py:31|*Entering username:{username} and password:{password}
+21-08-2026 13:13:20|INFO|DashBoardPage.py:70|*CLick admin Button
+21-08-2026 13:13:26|INFO|ViewAdminPage.py:27|*searching a user
+21-08-2026 13:13:33|INFO|ViewAdminPage.py:47|*verifying username as displayed
+21-08-2026 13:13:33|INFO|ViewAdminPage.py:40|*Getting Username:{username} 
+21-08-2026 13:13:34|INFO|test_case_06_Validate_Newly_Created_User.py:27|==========TEST CASE 06 PASSED ===============
+21-08-2026 13:13:34|INFO|test_case_06_Validate_Newly_Created_User.py:28|==========TEST ENDED===============
+21-08-2026 13:13:42|INFO|test_case_07_Verify_Forgot_Password_Link.py:14|==========TEST CASE 07 STARTED==================
+21-08-2026 13:13:42|INFO|LoginPage.py:58|*clicking forget link
+21-08-2026 13:13:46|INFO|ResetPasswordPage.py:18|Entering username
+21-08-2026 13:13:47|INFO|ResetPasswordPage.py:22|Clicking reset button
+21-08-2026 13:13:47|INFO|ResetPasswordPage.py:26|*Getting Confirmation Message
+21-08-2026 13:13:48|INFO|test_case_07_Verify_Forgot_Password_Link.py:21|==========TESTCASEC O7 TEST PASSED===============
+21-08-2026 13:13:48|INFO|test_case_07_Verify_Forgot_Password_Link.py:22|==========TEST ENDED==================
+21-08-2026 13:13:57|INFO|test_case_08_Verify_Menu_Items_Under_MyInfo.py:12|==========TEST CASE 08  Started==========
+21-08-2026 13:13:57|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:13:58|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:13:58|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:14:00|INFO|MyInfoPage.py:16|*clicking myinfo button
+21-08-2026 13:14:02|INFO|MyInfoPage.py:20|*clicking myinfo tab
+21-08-2026 13:14:03|INFO|BasePage.py:86|Getting Page URL
+21-08-2026 13:14:03|INFO|test_case_08_Verify_Menu_Items_Under_MyInfo.py:18|==========TEST CASE 08 PASSED===============
+21-08-2026 13:14:03|INFO|test_case_08_Verify_Menu_Items_Under_MyInfo.py:19|==========TEST ENDED==================
+21-08-2026 13:14:15|INFO|test_case_09_Verify_Leave_And_Assignment.py:14|=====TESTCASE 09 started======
+21-08-2026 13:14:15|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:14:15|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:14:16|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:14:18|INFO|DashBoardPage.py:84|*clicking Leave tab 
+21-08-2026 13:14:20|INFO|AssignLeavePage.py:40|*click assign leave
+21-08-2026 13:14:22|INFO|AssignLeavePage.py:44|*enter employee name
+21-08-2026 13:14:25|INFO|AssignLeavePage.py:49|*entering leave type
+21-08-2026 13:14:25|INFO|AssignLeavePage.py:54|*Choose From date
+21-08-2026 13:14:26|INFO|AssignLeavePage.py:61|*Choose To date
+21-08-2026 13:14:28|INFO|AssignLeavePage.py:36|*click assign button
+21-08-2026 13:14:29|INFO|AssignLeavePage.py:88|Verifying confirmation message
+21-08-2026 13:14:31|INFO|AssignLeavePage.py:83|*click ok in confirmation
+21-08-2026 13:14:31|INFO|ViewLeaveList.py:42|*Clicking the Leave list tab 
+21-08-2026 13:14:32|INFO|ViewLeaveList.py:49|*Choose From date
+21-08-2026 13:14:35|INFO|ViewLeaveList.py:58|*Choose To date
+21-08-2026 13:14:38|INFO|ViewLeaveList.py:79|*Displaying the Leave Status
+21-08-2026 13:14:38|INFO|ViewLeaveList.py:99|*entering leave type
+21-08-2026 13:14:39|INFO|ViewLeaveList.py:104|*enter employee name
+21-08-2026 13:14:40|INFO|ViewLeaveList.py:115|*Enter search button
+21-08-2026 13:14:40|INFO|ViewLeaveList.py:119|*verifying Leave is Displayed
+21-08-2026 13:14:41|INFO|test_case_09_Verify_Leave_And_Assignment.py:24|==========TEST CASE 09 TEST PASSED=========
+21-08-2026 13:14:41|INFO|test_case_09_Verify_Leave_And_Assignment.py:25|==========TEST ENDED===============
+21-08-2026 13:14:47|INFO|test_case_10_Verify_Claim_Request.py:14|=====TEST CASE 10 started======
+21-08-2026 13:14:47|INFO|LoginPage.py:33|*Entering the Username
+21-08-2026 13:14:55|INFO|LoginPage.py:37|*Entering the Password
+21-08-2026 13:14:55|INFO|LoginPage.py:41|*Click Login
+21-08-2026 13:14:55|INFO|DashBoardPage.py:88|*click Claim
+21-08-2026 13:15:43|INFO|AssignClaimPage.py:30|*click assign claim
+21-08-2026 13:15:46|INFO|AssignClaimPage.py:34|*Enter employee name
+21-08-2026 13:15:49|INFO|AssignClaimPage.py:40|*Enter event value
+21-08-2026 13:15:49|INFO|AssignClaimPage.py:45|*Enter the currency
+21-08-2026 13:15:49|INFO|AssignClaimPage.py:50|*Click create
+21-08-2026 13:15:49|INFO|AssignClaimPage.py:59|*getting the reference ID
+21-08-2026 13:16:01|INFO|EmployeeClaimPage.py:28|*clicking employee Claim
+21-08-2026 13:16:03|INFO|EmployeeClaimPage.py:32|*Entering Employee Name
+21-08-2026 13:16:09|INFO|EmployeeClaimPage.py:37|*Entering Reference ID
+21-08-2026 13:16:09|INFO|EmployeeClaimPage.py:41|*Enter Event type name
+21-08-2026 13:16:09|INFO|EmployeeClaimPage.py:46|*Entering the status
+21-08-2026 13:16:09|INFO|EmployeeClaimPage.py:51|*clicking search button
+21-08-2026 13:16:09|INFO|EmployeeClaimPage.py:55|*verifying user claim in List
+21-08-2026 13:16:11|INFO|EmployeeClaimPage.py:60|*User is displayed in Claim list
+21-08-2026 13:16:11|INFO|EmployeeClaimPage.py:67|Expected Ref ID: 202608210000015
+21-08-2026 13:16:11|INFO|EmployeeClaimPage.py:68|Actual Ref ID: 202608210000015
+21-08-2026 13:16:11|INFO|EmployeeClaimPage.py:67|Expected Ref ID: 202608210000015
+21-08-2026 13:16:11|INFO|EmployeeClaimPage.py:68|Actual Ref ID: 202608210000015
+21-08-2026 13:16:11|INFO|test_case_10_Verify_Claim_Request.py:24|==========TC 10 TEST PASSED===============
+21-08-2026 13:16:11|INFO|test_case_10_Verify_Claim_Request.py:25|==========TEST ENDED===============
