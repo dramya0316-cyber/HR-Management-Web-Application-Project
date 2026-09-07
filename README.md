@@ -71,7 +71,7 @@ HR_Management_Test_Automation/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/umashankarm15071993-spec/OrangeHRM_Management_Application_project.git
+git clone git clone https://github.com/umashankarm15071993-spec/OrangeHRM_Management_Application_project.git
 ```
 
 ### Navigate to the Project Directory
