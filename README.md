@@ -71,7 +71,7 @@ HR_Management_Test_Automation/
 ### Clone the Repository
 
 ```bash
-git clone git clone https://github.com/dramya0316-cyber/HR-Management-Web-Application-Project.git
+git clone  https://github.com/dramya0316-cyber/HR-Management-Web-Application-Project.git
 ```
 
 ### Navigate to the Project Directory
